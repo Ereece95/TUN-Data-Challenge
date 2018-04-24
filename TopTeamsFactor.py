@@ -1,6 +1,6 @@
 # Eric Reece
-# Turns out I'm more brain dead than I thought
-# so this is going beyond slow
+# 
+# 
 
 # Loading in pandas and numpy
 import pandas as pd
